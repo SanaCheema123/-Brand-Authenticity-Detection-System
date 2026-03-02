@@ -296,16 +296,3 @@ brand-authenticity-detection/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-
-Built with ❤️ using PyTorch • Transformers • XGBoost • OpenCV
-
-*Protecting users from phishing — one URL at a time 🛡️*
-
-</div>
